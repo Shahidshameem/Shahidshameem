@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shahidshameem
 - 👀 I’m interested in: python, html, data science,java. 
-- 🌱 I’m currently learning: c-programming. 
+- 🌱 I’m currently learning: c-programming,cpp. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :Facebook @shahid shameem.
                               Instgram:shahid_shameem___
